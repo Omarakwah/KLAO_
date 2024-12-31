@@ -1,0 +1,7 @@
+regex
+python-dotenv
+langchain-community==0.3.0
+langchain-experimental
+langchain-google-genai
+
+
